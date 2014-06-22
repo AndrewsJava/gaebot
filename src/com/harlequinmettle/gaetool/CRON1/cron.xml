@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+      
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 20:05</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 20:07</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 20:35</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 20:45</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+          
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 20:55</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+          
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 21:05</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+          
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 21:25</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+             
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 21:55</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+             
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 22:00</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+              
+             
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 22:10</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+              
+             
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 22:20</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+                 
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every saturday 1:30</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+                  
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every saturday 1:35</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+                  
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every saturday 1:50</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+                  
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every saturday 2:10</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+                  
+        
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every saturday 2:30</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+          
+  
+<!-- 
+  
+  <cron>
+    <url>/stopcron</url>
+    <description>why does backend keep running????</description>
+    <schedule>every friday 14:30</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+      
+    
+  <cron>
+    <url>/collectsmall</url>
+    <description>collect data -small  data</description>
+    <schedule>every friday 21:00</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+      
+  <cron>
+    <url>/collectdefault</url>
+    <description>collect -program choice  data</description>
+    <schedule>every friday 21:20</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+   
+          
+  <cron>
+    <url>/collectbig</url>
+    <description>collect -big data</description>
+    <schedule>every saturday 0:30</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+  
+            
+  <cron>
+    <url>/analyzer</url>
+    <description>analyze database</description>
+    <schedule>every saturday 0:30</schedule>  
+    <timezone>US/Pacific</timezone>
+  </cron>
+      
+   -->
+   
+    
+  
+</cronentries>
